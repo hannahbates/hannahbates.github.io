@@ -11,9 +11,12 @@
    ========================================================================== */
 
 html {
-    color: #222;
+    color: #fff;
     font-size: 1em;
+    font: helvetica;
     line-height: 1.4;
+    background-color: teal;
+    padding: 50px;
 }
 
 /*
